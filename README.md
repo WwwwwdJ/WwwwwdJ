@@ -1,12 +1,12 @@
-### Hi there 👋
+📫 WwwwwdJ@foxmail.com
+🌱 I’m currently learning fontend
 
 <!--
 **WwwwwdJ/WwwwwdJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-📫 WwwwwdJ@foxmail.com
-🌱 I’m currently learning fontend
+
 - 🔭 I’m currently working on ...
 - 
 - 👯 I’m looking to collaborate on ...

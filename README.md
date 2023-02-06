@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=WwwwwdJ&layout=compact) | ![About me](https://github-readme-stats.vercel.app/api?username=WwwwwdJ&show_icons=true&theme=Showingicons)
+![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=WwwwwdJ&layout=compact)  ![About me](https://github-readme-stats.vercel.app/api?username=WwwwwdJ&show_icons=true&theme=Showingicons)
 
 ## About me
 

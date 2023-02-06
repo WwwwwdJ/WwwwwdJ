@@ -5,8 +5,10 @@
 
 Here are some ideas to get you started:
 
+📫 WwwwwdJ@foxmail.com
+🌱 I’m currently learning fontend
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -25,4 +27,4 @@ Here are some ideas to get you started:
 
 
 
-📫 WwwwwdJ@foxmail.com
+

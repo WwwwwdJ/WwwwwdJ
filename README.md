@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Language used
+## The most commonly used language
 
 ![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=WwwwwdJ&layout=compact)  
 

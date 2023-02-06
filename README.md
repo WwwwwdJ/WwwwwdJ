@@ -6,7 +6,7 @@
 
 ## The most commonly used language
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WwwwwdJ)
+![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=WwwwwdJ&layout=compact)
 
 
 
